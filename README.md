@@ -7,6 +7,7 @@
 3. Fetch API
 4. JSON Server
 5. GitHub Actions
+6. Progressive Web App (PWA)
 
 ## Compromises
 
