@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.34de6062.chunk.css",
-    "main.js": "/static/js/main.da432678.chunk.js",
-    "main.js.map": "/static/js/main.da432678.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.26c4be42.js",
-    "runtime-main.js.map": "/static/js/runtime-main.26c4be42.js.map",
-    "static/js/2.e5ab6ce5.chunk.js": "/static/js/2.e5ab6ce5.chunk.js",
-    "static/js/2.e5ab6ce5.chunk.js.map": "/static/js/2.e5ab6ce5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.57db8ac8ee364e1b1848da8a16efe02c.js": "/precache-manifest.57db8ac8ee364e1b1848da8a16efe02c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map",
-    "static/js/2.e5ab6ce5.chunk.js.LICENSE.txt": "/static/js/2.e5ab6ce5.chunk.js.LICENSE.txt"
+    "main.css": "/mithuniverse/claims-dashboard/static/css/main.34de6062.chunk.css",
+    "main.js": "/mithuniverse/claims-dashboard/static/js/main.81056058.chunk.js",
+    "main.js.map": "/mithuniverse/claims-dashboard/static/js/main.81056058.chunk.js.map",
+    "runtime-main.js": "/mithuniverse/claims-dashboard/static/js/runtime-main.018b56c7.js",
+    "runtime-main.js.map": "/mithuniverse/claims-dashboard/static/js/runtime-main.018b56c7.js.map",
+    "static/js/2.e5ab6ce5.chunk.js": "/mithuniverse/claims-dashboard/static/js/2.e5ab6ce5.chunk.js",
+    "static/js/2.e5ab6ce5.chunk.js.map": "/mithuniverse/claims-dashboard/static/js/2.e5ab6ce5.chunk.js.map",
+    "index.html": "/mithuniverse/claims-dashboard/index.html",
+    "precache-manifest.06e71a9e4cf35cab53ff57166b434d6a.js": "/mithuniverse/claims-dashboard/precache-manifest.06e71a9e4cf35cab53ff57166b434d6a.js",
+    "service-worker.js": "/mithuniverse/claims-dashboard/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/mithuniverse/claims-dashboard/static/css/main.34de6062.chunk.css.map",
+    "static/js/2.e5ab6ce5.chunk.js.LICENSE.txt": "/mithuniverse/claims-dashboard/static/js/2.e5ab6ce5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.26c4be42.js",
+    "static/js/runtime-main.018b56c7.js",
     "static/js/2.e5ab6ce5.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.da432678.chunk.js"
+    "static/js/main.81056058.chunk.js"
   ]
 }
