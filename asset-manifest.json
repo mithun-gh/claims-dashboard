@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mithuniverse/claims-dashboard/static/css/main.34de6062.chunk.css",
-    "main.js": "/mithuniverse/claims-dashboard/static/js/main.81056058.chunk.js",
-    "main.js.map": "/mithuniverse/claims-dashboard/static/js/main.81056058.chunk.js.map",
-    "runtime-main.js": "/mithuniverse/claims-dashboard/static/js/runtime-main.018b56c7.js",
-    "runtime-main.js.map": "/mithuniverse/claims-dashboard/static/js/runtime-main.018b56c7.js.map",
-    "static/js/2.e5ab6ce5.chunk.js": "/mithuniverse/claims-dashboard/static/js/2.e5ab6ce5.chunk.js",
-    "static/js/2.e5ab6ce5.chunk.js.map": "/mithuniverse/claims-dashboard/static/js/2.e5ab6ce5.chunk.js.map",
-    "index.html": "/mithuniverse/claims-dashboard/index.html",
-    "precache-manifest.06e71a9e4cf35cab53ff57166b434d6a.js": "/mithuniverse/claims-dashboard/precache-manifest.06e71a9e4cf35cab53ff57166b434d6a.js",
-    "service-worker.js": "/mithuniverse/claims-dashboard/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/mithuniverse/claims-dashboard/static/css/main.34de6062.chunk.css.map",
-    "static/js/2.e5ab6ce5.chunk.js.LICENSE.txt": "/mithuniverse/claims-dashboard/static/js/2.e5ab6ce5.chunk.js.LICENSE.txt"
+    "main.css": "/claims-dashboard/static/css/main.34de6062.chunk.css",
+    "main.js": "/claims-dashboard/static/js/main.0ed011dd.chunk.js",
+    "main.js.map": "/claims-dashboard/static/js/main.0ed011dd.chunk.js.map",
+    "runtime-main.js": "/claims-dashboard/static/js/runtime-main.e4da363f.js",
+    "runtime-main.js.map": "/claims-dashboard/static/js/runtime-main.e4da363f.js.map",
+    "static/js/2.e5ab6ce5.chunk.js": "/claims-dashboard/static/js/2.e5ab6ce5.chunk.js",
+    "static/js/2.e5ab6ce5.chunk.js.map": "/claims-dashboard/static/js/2.e5ab6ce5.chunk.js.map",
+    "index.html": "/claims-dashboard/index.html",
+    "precache-manifest.47ec8b3a74ec53c6c9147aa97f5a336b.js": "/claims-dashboard/precache-manifest.47ec8b3a74ec53c6c9147aa97f5a336b.js",
+    "service-worker.js": "/claims-dashboard/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/claims-dashboard/static/css/main.34de6062.chunk.css.map",
+    "static/js/2.e5ab6ce5.chunk.js.LICENSE.txt": "/claims-dashboard/static/js/2.e5ab6ce5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.018b56c7.js",
+    "static/js/runtime-main.e4da363f.js",
     "static/js/2.e5ab6ce5.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.81056058.chunk.js"
+    "static/js/main.0ed011dd.chunk.js"
   ]
 }
