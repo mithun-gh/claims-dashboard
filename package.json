@@ -15,7 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "devserver": "json-server --port 2000 --watch fake-server/db.json"
+    "devserver": "json-server --port 2000 --watch db.json"
   },
   "eslintConfig": {
     "extends": "react-app"
