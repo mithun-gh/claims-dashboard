@@ -4,7 +4,17 @@
 
 1. React (with Hooks)
 2. Styled Components
-3. JSON Server
+3. Fetch API
+4. JSON Server
+5. GitHub Actions
+
+## Compromises
+
+1. The SLA sorting is performed in the `getClaims` API method. That logic could have written in a `Mobx` store.
+2. Status is not updated based on the current date.
+3. Topics that should be considered for realtime: WebSockets
+
+## Note
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
